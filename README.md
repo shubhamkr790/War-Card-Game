@@ -1,4 +1,1 @@
-#War Card Game
-##UI
-
-![UI](ui.png)
+<img src="img.png" width="300"
