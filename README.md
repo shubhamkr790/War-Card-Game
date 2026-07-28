@@ -1,1 +1,4 @@
-img="ui.png"
+#War Card Game
+##UI
+
+![UI](ui.png)
